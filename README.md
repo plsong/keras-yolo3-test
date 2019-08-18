@@ -5,7 +5,7 @@ keras-yolo3-test
 
 2 时间双击 yolo_test.py检测结果放在了result文件夹中。会自动建立result文件夹
 
-3 博文地址：https://blog.csdn.net/plSong_CSDN/article/details/89502117
+3 博文地址：https://blog.csdn.net/plsong_csdn/article/details/89318782
 
 参考：
 https://github.com/qqwweee/keras-yolo3
